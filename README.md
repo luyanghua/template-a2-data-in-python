@@ -40,6 +40,7 @@ When you are ready to submit, [please open a pull request](https://help.github.c
 
 | Iris type | Mean Sepal Length| Standard Deviation of Sepal Length |
 |-----------|:----------------:|:----------------------------------:|
-| Setosa    | XX  | XX | 
-| Versicolor    | XX  | XX | 
-| Virginica    | XX  | XX | 
+| Setosa    | 5.006  | 0.352490 |
+| Versicolor    | 5.936  | 0.516171 |
+| Virginica    | 6.588  | 0.635880 |
+
